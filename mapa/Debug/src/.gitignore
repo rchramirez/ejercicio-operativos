@@ -1,0 +1,7 @@
+/deadlock.d
+/interfaz_grafica.d
+/main.d
+/mapa.d
+/planificador.d
+/pokemon_utils.d
+/queue_utils.d
