@@ -1,3 +1,3 @@
-# tp-2016-2c-Los-Picantes
+# Resuelto 2c 2016
 
 Los picantes papa!
